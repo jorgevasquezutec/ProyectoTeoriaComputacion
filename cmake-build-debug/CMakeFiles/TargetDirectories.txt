@@ -1,0 +1,3 @@
+D:/UTEC/Ciclo3/TC/ProyectoTeoriaComputacion/cmake-build-debug/CMakeFiles/proyectoTeoriaComputacion.dir
+D:/UTEC/Ciclo3/TC/ProyectoTeoriaComputacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UTEC/Ciclo3/TC/ProyectoTeoriaComputacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

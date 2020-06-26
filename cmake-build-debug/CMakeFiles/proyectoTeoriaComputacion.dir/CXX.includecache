@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/Ciclo3/TC/ProyectoTeoriaComputacion/src/main.cpp
+iostream
+-
+vector
+-
+iostream
+-
+cstdlib
+-
+cctype
+-
+map
+-
+unordered_map
+-
+
